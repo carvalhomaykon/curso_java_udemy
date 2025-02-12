@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72551b7a-71e1-42d5-90b1-96d499e9f016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/entradaDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcoesMatematicas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,8 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.entradaDeDados.executor": "Run",
+    "Application.exercicios01.executor": "Run",
+    "Application.funcoesMatematicas.executor": "Run",
     "Application.testeProcessamento.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -69,6 +72,7 @@
       <updated>1738208778026</updated>
       <workItem from="1738208779069" duration="4105000" />
       <workItem from="1738374099678" duration="2609000" />
+      <workItem from="1739333220619" duration="2648000" />
     </task>
     <servers />
   </component>

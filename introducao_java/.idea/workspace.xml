@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72551b7a-71e1-42d5-90b1-96d499e9f016" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuncoesString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaCondicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaRepeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturaWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_java_udemy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcoes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FuncoesString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entradaDeDados.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturaCondicional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturaRepeticao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturaWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicios01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/funcoesMatematicas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testeProcessamento.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,31 +38,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Funcoes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FuncoesString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.entradaDeDados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.estruturaCondicional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.estruturaRepeticao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.estruturaWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercicios01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.funcoesMatematicas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.testeProcessamento.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Cursos/java/curso_java_udemy&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Cursos/java/curso_java_udemy/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Funcoes.executor": "Run",
+    "Application.FuncoesString.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.entradaDeDados.executor": "Run",
+    "Application.estruturaCondicional.executor": "Run",
+    "Application.estruturaRepeticao.executor": "Run",
+    "Application.estruturaWhile.executor": "Run",
+    "Application.exercicios01.executor": "Run",
+    "Application.funcoesMatematicas.executor": "Run",
+    "Application.testeProcessamento.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Cursos/java/curso_java_udemy/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Funcoes">
     <configuration name="Funcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Funcoes" />
@@ -132,8 +121,7 @@
       <workItem from="1739333220619" duration="3248000" />
       <workItem from="1739415093201" duration="1603000" />
       <workItem from="1739640121244" duration="6863000" />
-      <workItem from="1740000597515" duration="2365000" />
-      <workItem from="1740003090168" duration="42000" />
+      <workItem from="1740000597515" duration="1881000" />
     </task>
     <servers />
   </component>
